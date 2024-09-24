@@ -1,2 +1,0 @@
-# CineManagment
-Gerenciador de cinemas
